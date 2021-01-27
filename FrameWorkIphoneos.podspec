@@ -32,6 +32,10 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'FrameWorkIphoneos/Classes/**/*'
   
+  s.public_header_files = 'FrameWorkIphoneos/Classes/**/*.h'
+  s.vendored_frameworks = 'FrameWorkIphoneos/Classes/test/test.framework'
+  s.static_framework = true
+  
   # s.resource_bundles = {
   #   'FrameWorkIphoneos' => ['FrameWorkIphoneos/Assets/*.png']
   # }

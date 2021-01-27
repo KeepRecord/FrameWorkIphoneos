@@ -18,5 +18,8 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "FrameWorkIphoneos/Classes/**/*"
+  "source_files": "FrameWorkIphoneos/Classes/**/*",
+  "public_header_files": "FrameWorkIphoneos/Classes/**/*.h",
+  "vendored_frameworks": "FrameWorkIphoneos/Classes/test/test.framework",
+  "static_framework": true
 }

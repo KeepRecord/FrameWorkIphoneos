@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "test.h"
+#import "TestClass.h"
 
 FOUNDATION_EXPORT double FrameWorkIphoneosVersionNumber;
 FOUNDATION_EXPORT const unsigned char FrameWorkIphoneosVersionString[];

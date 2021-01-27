@@ -7,7 +7,7 @@
 //
 
 #import "HHViewController.h"
-
+#import <test/test.h>
 @interface HHViewController ()
 
 @end
@@ -18,6 +18,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    
+    [TestClass testLog];
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
