@@ -1,0 +1,16 @@
+PODS:
+  - FrameWorkIphoneos (0.1.0)
+
+DEPENDENCIES:
+  - FrameWorkIphoneos (from `../`)
+
+EXTERNAL SOURCES:
+  FrameWorkIphoneos:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FrameWorkIphoneos: 82de5958ccdf3b8ab83b4b141755c96b87c7cb4e
+
+PODFILE CHECKSUM: 873426278dc23f4a012995bdb42c11cca934d76d
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module FrameWorkIphoneos {
+  umbrella header "FrameWorkIphoneos-umbrella.h"
+
+  export *
+  module * { export * }
+}
